@@ -1,7 +1,7 @@
 
 # Recipe App
 
-Pojeto proposto pelo curso da [Trybe](https://betrybe.com) em que deveria ser criado uma pagina web mobile only de um aplicativo de receitas.
+Projeto proposto pelo curso da [Trybe](https://betrybe.com) em que deveria ser criado uma pagina web mobile only de um aplicativo de receitas.
 
 Nela é possível ver, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks!
 
